@@ -15,10 +15,10 @@
 ### Compile and Run the Program
 <p>To compile and run the program, follow these steps in your terminal:</p>
 <b>Compile the Program</b>:
-<pre><code>g++ -o heap_operations Driver.cpp</code></pre>
+<pre><code>g++ -o Heap.cpp</code></pre>
 <b>Run the Program</b>:
 
-<pre><code>./heap_operations</code></pre>
+<pre><code>./Heap</code></pre>
 
 ### Usage
 <p>1. The program initializes an array and prints its values:</p>
